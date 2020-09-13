@@ -46,7 +46,7 @@ int main()
         ll arr[n];
         for(int i=0;i<n;i++) cin>>arr[i];
 
-        subarray(arr,n);
+        equipoint(arr,n);
     }
     return 0;
 }
