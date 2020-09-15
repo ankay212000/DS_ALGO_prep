@@ -10,3 +10,5 @@
 <a href="https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/">Maximum Sum Increasing Subsequence</a> (Prerequisite: Simple DP)
 
 <a href="https://www.codechef.com/problems/KCON">K-Concatenation</a> (Prerequisite: Kadane's Algorithm) 
+
+<a href="https://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion/">Convert array into Zig-Zag fashion</a>
