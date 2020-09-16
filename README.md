@@ -13,6 +13,6 @@
 
 <a href="https://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion/">Convert array into Zig-Zag fashion</a>
 
-<a href="https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/">Find a pair with the given difference</a> (Prerequisite: Kadane's Algorithm)
+<a href="https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/">Find a pair with the given difference</a> (Prerequisite: Hashing)
 
 <a href="https://www.geeksforgeeks.org/chocolate-distribution-problem/">Chocolate Distribution Problem</a>
