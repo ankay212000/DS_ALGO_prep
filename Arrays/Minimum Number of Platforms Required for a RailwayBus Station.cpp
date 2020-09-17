@@ -31,14 +31,14 @@ int main()
         for(int i=0;i<n;i++)
         {
             platform[arrival[i]]++;
-            platform[departure[i]]--;
+            platform[departure[i]+1]--;
         }
 
         int ans=0,sum=0;
         for(int i=mintime;i<=maxtime;i++)
         {
-            sum+=platform[i];
-            ans=max(ans,sum);
+            platform[i]+=platform[i-1];
+            ans=max(ans,platform[i]);
         }
 
         print(ans);
