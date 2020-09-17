@@ -24,35 +24,30 @@ int main()
         cin>>n;
         vector<ll> arr(n);
         for(int i=0;i<n;i++) cin>>arr[i];
-        ll minnum,maxnum,med;
-        int i;
-        for(i=0;i<n;i+=2)
+        int i,temp;
+        for(i=0;i<n-1;i++)
         {
-            if(i>n-1||i+1>n-1||i+2>n-1)
-            break;
+            if(i%2==0)
+            {
+                if(arr[i]>arr[i+1])
+                {
+                    temp=arr[i];
+                    arr[i]=arr[i+1];
+                    arr[i+1]=temp;
+                }
+            }
             else
             {
-                maxnum=max(arr[i],max(arr[i+1],arr[i+2]));
-                minnum=min(arr[i],min(arr[i+1],arr[i+2]));
-                med=(arr[i]+arr[i+1]+arr[i+2])-(minnum+maxnum);
-
-                arr[i]=minnum;
-                arr[i+1]=maxnum;
-                arr[i+2]=med;
+                if(arr[i]<arr[i+1])
+                {
+                    temp=arr[i];
+                    arr[i]=arr[i+1];
+                    arr[i+1]=temp;
+                }
             }
         }
-        if(i!=n-1)
-        {
-            if(arr[i]>arr[i+1])
-            {
-                ll temp;
-                temp=arr[i];
-                arr[i]=arr[i+1];
-                arr[i+1]=temp;
-            }    
-        }
         for(int i=0;i<n;i++)
-        cout<<arr[i]<<" ";
-        cout<<"\n";
+         cout<<arr[i]<<" ";
+     cout<<"\n";
     }
 }
