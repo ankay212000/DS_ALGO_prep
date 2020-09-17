@@ -16,3 +16,5 @@
 <a href="https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/">Find a pair with the given difference</a> (Prerequisite: Hashing)
 
 <a href="https://www.geeksforgeeks.org/chocolate-distribution-problem/">Chocolate Distribution Problem</a>
+
+<a href="https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/">Minimum Number of Platforms Required for a Railway/Bus Station</a>
