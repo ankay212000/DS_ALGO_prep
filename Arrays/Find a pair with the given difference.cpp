@@ -32,7 +32,7 @@ int main()
                 cout<<"Pair Found: ("<<temp<<","<<temp+d<<")";
                 flag=true;
             }
-            else if(pairs.find(temp-d)!=pairs.end())
+            else if(pairs.find(abs(temp-d))!=pairs.end())
             {
                 cout<<"Pair Found: ("<<temp-d<<","<<temp<<")";
                 flag=true;
