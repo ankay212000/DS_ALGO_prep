@@ -15,13 +15,15 @@ void print3(T1 x, T2 y,T3 z){cout<<x<<" "<<y<<" "<<z<<"\n";}
 int maxsum(ll arr[],ll n)
 {
     int maxs[n];
-    maxs[0]=arr[0];
+    for(int i=0;i<n;i++)
+     maxs[i]=arr[i];
+ 
     int ans=maxs[0];
     for(int i=1;i<n;i++)
     {
         for(int j=0;j<i;j++)
         {
-            if(arr[i]>arr[j]&&maxs[j]<maxs[j]+arr[i])
+            if(arr[i]>arr[j]&&maxs[i]<maxs[j]+arr[i])
             maxs[i]=maxs[j]+arr[i],ans=max(maxs[i],ans);
         }
     }
