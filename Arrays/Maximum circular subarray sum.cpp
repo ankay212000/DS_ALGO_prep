@@ -18,7 +18,7 @@ int kadanes(ll arr[],ll n)
     for(int i=0;i<n;i++) sum+=arr[i];
 
     ll curr_max_sum=arr[0],max_sum=arr[0],min_sum=arr[0],curr_min_sum=arr[0];
-    for(int i=0;i<n;i++)
+    for(int i=1;i<n;i++)
     {
         curr_max_sum=max(curr_max_sum+arr[i],arr[i]);
         curr_min_sum=min(curr_min_sum+arr[i],arr[i]);
@@ -28,7 +28,7 @@ int kadanes(ll arr[],ll n)
     }
 
     if(min_sum==sum)
-    return min_sum;
+    return max_sum;
 
     else
     return max(max_sum,sum-min_sum);
