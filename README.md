@@ -19,3 +19,4 @@
 
 <a href="https://practice.geeksforgeeks.org/problems/minimum-platforms/0">Minimum Number of Platforms Required for a Railway/Bus Station</a>
 
+<a href="https://practice.geeksforgeeks.org/problems/trapping-rain-water/0">Trapping Rain Water</a>
