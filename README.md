@@ -26,3 +26,5 @@
 <a href="https://practice.geeksforgeeks.org/problems/rotate-by-90-degree/0">Rotate by 90 degree</a>
 
 <a href="https://www.geeksforgeeks.org/find-k-pairs-smallest-sums-two-arrays/">Find k pairs with smallest sums in two arrays</a>
+
+<a href="https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0">Search in a Rotated Array</a>
