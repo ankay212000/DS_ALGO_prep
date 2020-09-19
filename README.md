@@ -24,3 +24,5 @@
 <a href="https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0">Stock Buy Sell to Maximize Profit</a>
 
 <a href="https://practice.geeksforgeeks.org/problems/rotate-by-90-degree/0">Rotate by 90 degree</a>
+
+<a href="https://www.geeksforgeeks.org/find-k-pairs-smallest-sums-two-arrays/">Find k pairs with smallest sums in two arrays</a>
