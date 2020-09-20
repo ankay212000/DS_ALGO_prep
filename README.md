@@ -30,3 +30,5 @@
 <a href="https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0">Search in a Rotated Array</a>
 
 <a href="https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/">Given a sorted and rotated array, find if there is a pair with a given sum</a>
+
+<a href="https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1">Max sum in the configuration</a>
