@@ -20,3 +20,4 @@
 | 15 | [Given a sorted and rotated array, find if there is a pair with a given sum](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/) | None |
 | 16 | [Max sum in the configuration](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1) | None |
 | 17 | [Array of alternate +ve and -ve no.s](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | Caution: When submitting the solution WA as they have not given clarity on how the array has to be change although the code changes the array as specified in the question |
+| 18 | [Three way partitioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1) |Dutch National Flag Quick Sort |
