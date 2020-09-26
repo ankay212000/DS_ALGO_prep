@@ -22,3 +22,5 @@
 | 17 | [Array of alternate +ve and -ve no.s](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | Caution: When submitting the solution WA as they have not given clarity on how the array has to be change although the code changes the array as specified in the question |
 | 18 | [Three way partitioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1) |Dutch National Flag Quick Sort |
 | 19 | [Sort an array of 0s, 1s and 2s ](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0) |Dutch National Flag Quick Sort |
+| 20 | [Maximum length Bitonic Subarray](https://practice.geeksforgeeks.org/problems/maximum-length-bitonic-subarray5730/1) | In O(n) space |
+| 21 | [Maximum length Bitonic Subarray](https://practice.geeksforgeeks.org/problems/maximum-length-bitonic-subarray5730/1) | In O(1) space |
