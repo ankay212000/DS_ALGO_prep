@@ -25,4 +25,6 @@
 | 20 | [Maximum length Bitonic Subarray](https://practice.geeksforgeeks.org/problems/maximum-length-bitonic-subarray5730/1) | In O(n) space |
 | 21 | [Maximum length Bitonic Subarray](https://practice.geeksforgeeks.org/problems/maximum-length-bitonic-subarray5730/1) | In O(1) space |
 ## Stacks
-| 1 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Stacks |
+| Index | Problem | Prerequisite |  
+| --- | --- | --- | 
+| 1 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | |
