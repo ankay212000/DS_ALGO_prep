@@ -27,5 +27,5 @@
 ## Stacks
 | Index | Problem | Prerequisite |  
 | --- | --- | --- | 
-| 1 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | |
-| 2 | [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0) | |
+| 1 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | None|
+| 2 | [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0) | None|
