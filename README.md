@@ -29,3 +29,9 @@
 | --- | --- | --- | 
 | 1 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | None|
 | 2 | [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0) | None|
+## Segment Trees
+| Index | Problem | Prerequisite |  
+| --- | --- | --- | 
+| 1 | [Range Minimum Query](https://www.spoj.com/problems/RMQSQ/) | None|
+| 2 | [Help Ashu](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1/) | None|
+
