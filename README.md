@@ -39,3 +39,12 @@
 | 1 | [Range Minimum Query](https://www.spoj.com/problems/RMQSQ/) | None|
 | 2 | [Help Ashu](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1/) | None|
 
+## Greedy Algos
+| Index | Problem | Prerequisite |  
+| --- | --- | --- | 
+| 1 | [Activity Selection](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) | Caution: Wrong test case on Geeks for Geeks|
+| 2 | [Egyptian Factors](https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/) | Mathematics|
+| 3 | [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) |None|
+| 4 | [Water Connection Problem](https://practice.geeksforgeeks.org/problems/water-connection-problem/0) |None|
+| 5 | [Police Catch Thieves](https://www.geeksforgeeks.org/policemen-catch-thieves/) |None|
+
