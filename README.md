@@ -1,5 +1,7 @@
-# DS_ALGO_prep
+#### If you find anything wrong email us 
+[![Gmail Badge](https://img.shields.io/badge/-codechefuietchapter@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codechefuietchapter@gmail.com)](mailto:codechefuietchapter@gmail.com)
 
+# DS_ALGO_prep
 ## Arrays
 | Index | Problem | Prerequisite |  
 | --- | --- | --- | 
