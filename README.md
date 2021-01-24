@@ -24,6 +24,7 @@
 | 19 | [Sort an array of 0s, 1s and 2s ](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0) |Dutch National Flag Quick Sort |
 | 20 | [Maximum length Bitonic Subarray](https://practice.geeksforgeeks.org/problems/maximum-length-bitonic-subarray5730/1) | In O(n) space |
 | 21 | [Maximum length Bitonic Subarray](https://practice.geeksforgeeks.org/problems/maximum-length-bitonic-subarray5730/1) | In O(1) space |
+| 22 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | None |
 ## Stacks
 | Index | Problem | Prerequisite |  
 | --- | --- | --- | 
