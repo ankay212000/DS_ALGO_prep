@@ -33,6 +33,7 @@
 | 3 | [Reverse a Stack without using extra space](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) |Recursion|
 | 4 | [Delete middle element of stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) |Recursion|
 | 5 | [Sort a Stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |Recursion|
+| 6 | [Sed Max](https://www.codechef.com/LTIME93B/problems/SEDMAX) |None|
 
 ## Segment Trees
 | Index | Problem | Prerequisite |  
