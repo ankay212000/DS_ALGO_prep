@@ -50,3 +50,23 @@
 | 4 | [Water Connection Problem](https://practice.geeksforgeeks.org/problems/water-connection-problem/0) |None|
 | 5 | [Police Catch Thieves](https://www.geeksforgeeks.org/policemen-catch-thieves/) |None|
 
+## DFS
+| Index | Problem | Prerequisite |  
+| --- | --- | --- | 
+| 1 | [Connected Components in a Graph](https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/) |DFS on undirected graph|
+| 2 | [Bishu and his Girlfriend](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bishu-and-his-girlfriend/) | DFS on undirected graph|
+| 3 | [Is it a tree](https://www.spoj.com/problems/PT07Y/) |Graph knowledge|
+| 4 | [A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/) |Bipartite graphs|
+| 5 | [Fire Escape Routes](https://www.codechef.com/problems/FIRESC) |Connected Components|
+| 6 | [Counting Rooms](https://cses.fi/problemset/task/1192/)|DFS on 2D graph|
+
+## BFS
+
+| Index | Problem | Prerequisite |  
+| --- | --- | --- | 
+| 1 | [Connected Components in a Graph](https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/) |DFS on undirected graph|
+| 2 | [Bishu and his Girlfriend](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bishu-and-his-girlfriend/) | DFS on undirected graph|
+| 3 | [Is it a tree](https://www.spoj.com/problems/PT07Y/) |Graph knowledge|
+| 4 | [A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/) |Bipartite graphs|
+| 5 | [Fire Escape Routes](https://www.codechef.com/problems/FIRESC) |Connected Components|
+| 6 | [Counting Rooms](https://cses.fi/problemset/task/1192/)|DFS on 2D graph|
