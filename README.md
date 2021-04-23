@@ -70,6 +70,7 @@
 | 3 | [Feasible relations](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/feasible-relations/) |BFS|
 | 4 | [Social Networking Graph](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/social-networking-graph/) |BFS|
 | 5 | [Jungle Run](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jungle-run/) |BFS on 2D grid|
-| 6 | [Chess knight move](https://www.codechef.com/problems/PRGCUP01)|BFS on 2D graph|
-| 7 | [Bitmap](https://www.spoj.com/problems/BITMAP/)|BFS on 2D graph|
-| 8 | [Lucius Dungeon](https://www.spoj.com/problems/BYTESE1/)|BFS on 2D graph|
+| 6 | [Chess knight move](https://www.codechef.com/problems/PRGCUP01)|BFS on 2D grid|
+| 7 | [Bitmap](https://www.spoj.com/problems/BITMAP/)|BFS on 2D grid|
+| 8 | [Lucius Dungeon](https://www.spoj.com/problems/BYTESE1/)|BFS on 2D grid|
+| 9 | [The Cats and the Mouse](https://www.spoj.com/problems/CATM/)|BFS on 2D grid|
