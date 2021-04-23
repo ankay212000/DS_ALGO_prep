@@ -72,3 +72,4 @@
 | 5 | [Jungle Run](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jungle-run/) |BFS on 2D grid|
 | 6 | [Chess knight move](https://www.codechef.com/problems/PRGCUP01)|BFS on 2D graph|
 | 7 | [Bitmap](https://www.spoj.com/problems/BITMAP/)|BFS on 2D graph|
+| 8 | [Lucius Dungeon](https://www.spoj.com/problems/BYTESE1/)|BFS on 2D graph|
