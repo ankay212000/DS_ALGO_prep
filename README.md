@@ -59,14 +59,16 @@
 | 4 | [A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/) |Bipartite graphs|
 | 5 | [Fire Escape Routes](https://www.codechef.com/problems/FIRESC) |Connected Components|
 | 6 | [Counting Rooms](https://cses.fi/problemset/task/1192/)|DFS on 2D graph|
+| 7 | [Longest path in a tree](https://www.spoj.com/problems/PT07Z/)|Diameter of tree|
 
 ## BFS
 
 | Index | Problem | Prerequisite |  
 | --- | --- | --- | 
-| 1 | [Connected Components in a Graph](https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/) |DFS on undirected graph|
-| 2 | [Bishu and his Girlfriend](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bishu-and-his-girlfriend/) | DFS on undirected graph|
-| 3 | [Is it a tree](https://www.spoj.com/problems/PT07Y/) |Graph knowledge|
-| 4 | [A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/) |Bipartite graphs|
-| 5 | [Fire Escape Routes](https://www.codechef.com/problems/FIRESC) |Connected Components|
-| 6 | [Counting Rooms](https://cses.fi/problemset/task/1192/)|DFS on 2D graph|
+| 1 | [Monk and the Islands](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/) |BFS on undirected graph|
+| 2 | [Prime Path](https://www.spoj.com/problems/PPATH/) | Sieve of Erosthenes and BFS|
+| 3 | [Feasible relations](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/feasible-relations/) |BFS|
+| 4 | [Social Networking Graph](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/social-networking-graph/) |BFS|
+| 5 | [Jungle Run](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jungle-run/) |BFS on 2D grid|
+| 6 | [Chess knight move](https://www.codechef.com/problems/PRGCUP01)|BFS on 2D graph|
+| 7 | [Bitmap](https://www.spoj.com/problems/BITMAP/)|BFS on 2D graph|
