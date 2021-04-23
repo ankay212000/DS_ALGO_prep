@@ -60,6 +60,7 @@
 | 5 | [Fire Escape Routes](https://www.codechef.com/problems/FIRESC) |Connected Components|
 | 6 | [Counting Rooms](https://cses.fi/problemset/task/1192/)|DFS on 2D graph|
 | 7 | [Longest path in a tree](https://www.spoj.com/problems/PT07Z/)|Diameter of tree|
+| 8 | [A Walk to Remember](https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/practice-problems/algorithm/a-walk-to-remember-qualifier2/) |Kosaraju's algo|
 
 ## BFS
 
