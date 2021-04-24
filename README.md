@@ -75,3 +75,8 @@
 | 7 | [Bitmap](https://www.spoj.com/problems/BITMAP/)|BFS on 2D grid|
 | 8 | [Lucius Dungeon](https://www.spoj.com/problems/BYTESE1/)|BFS on 2D grid|
 | 9 | [The Cats and the Mouse](https://www.spoj.com/problems/CATM/)|BFS on 2D grid|
+
+## Disjoint Set
+| Index | Problem | Prerequisite |  
+| --- | --- | --- |
+| 1 | [Teacher's Dilemma](https://www.hackerearth.com/problem/algorithm/teachers-dilemma-3-00955296/)|None|
