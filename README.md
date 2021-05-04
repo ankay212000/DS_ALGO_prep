@@ -58,7 +58,7 @@
 | 3 | [Is it a tree](https://www.spoj.com/problems/PT07Y/) |Graph knowledge|
 | 4 | [A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/) |Bipartite graphs|
 | 5 | [Fire Escape Routes](https://www.codechef.com/problems/FIRESC) |Connected Components|
-| 6 | [Counting Rooms](https://cses.fi/problemset/task/1192/)|DFS on 2D graph|
+| 6 | [Counting Rooms](https://cses.fi/problemset/task/1192/)|DFS on 2D grid|
 | 7 | [Longest path in a tree](https://www.spoj.com/problems/PT07Z/)|Diameter of tree|
 | 8 | [A Walk to Remember](https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/practice-problems/algorithm/a-walk-to-remember-qualifier2/) |Kosaraju's algo|
 | 9 | [Maximum Size](https://www.codechef.com/problems/RISK) |DFS on 2D grid|
