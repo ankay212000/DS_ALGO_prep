@@ -34,6 +34,7 @@
 | 4 | [Delete middle element of stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) |Recursion|
 | 5 | [Sort a Stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |Recursion|
 | 6 | [Sed Max](https://www.codechef.com/LTIME93B/problems/SEDMAX) |None|
+| 7 | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)|None|
 
 ## Segment Trees
 | Index | Problem | Prerequisite |  
