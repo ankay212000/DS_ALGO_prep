@@ -82,3 +82,11 @@
 | Index | Problem | Prerequisite |  
 | --- | --- | --- |
 | 1 | [Teacher's Dilemma](https://www.hackerearth.com/problem/algorithm/teachers-dilemma-3-00955296/)|None|
+
+
+## Bit Manipulation
+| Index | Problem | Prerequisite |  
+| --- | --- | --- |
+| 1 | [Number of 1 Bits ](https://practice.geeksforgeeks.org/problems/set-bits0143/1)|None|
+| 2 | [Non Repeating Numbers ](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)|None|
+| 3 | [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)|None|
