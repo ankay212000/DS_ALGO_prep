@@ -63,6 +63,8 @@
 | 7 | [Longest path in a tree](https://www.spoj.com/problems/PT07Z/)|Diameter of tree|
 | 8 | [A Walk to Remember](https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/practice-problems/algorithm/a-walk-to-remember-qualifier2/) |Kosaraju's algo|
 | 9 | [Maximum Size](https://www.codechef.com/problems/RISK) |DFS on 2D grid|
+| 10| [Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |DFS|
+| 11| [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#) |DFS|
 
 ## BFS
 
