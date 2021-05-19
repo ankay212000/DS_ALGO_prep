@@ -65,6 +65,7 @@
 | 9 | [Maximum Size](https://www.codechef.com/problems/RISK) |DFS on 2D grid|
 | 10| [Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |DFS|
 | 11| [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#) |DFS|
+| 12| [Tree House](https://www.codechef.com/MAY21C/problems/THOUSES) |DFS|
 
 ## BFS
 
