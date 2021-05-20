@@ -35,6 +35,7 @@
 | 5 | [Sort a Stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |Recursion|
 | 6 | [Sed Max](https://www.codechef.com/LTIME93B/problems/SEDMAX) |None|
 | 7 | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)|None|
+| 8 | [Power Set](https://practice.geeksforgeeks.org/problems/power-set4302/1#)|Recursion|
 
 ## Segment Trees
 | Index | Problem | Prerequisite |  
@@ -93,3 +94,4 @@
 | 1 | [Number of 1 Bits ](https://practice.geeksforgeeks.org/problems/set-bits0143/1)|None|
 | 2 | [Non Repeating Numbers ](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)|None|
 | 3 | [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)|None|
+| 4 | [Power Set](https://practice.geeksforgeeks.org/problems/power-set4302/1#) |None|
