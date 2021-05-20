@@ -95,3 +95,4 @@
 | 2 | [Non Repeating Numbers ](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)|None|
 | 3 | [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)|None|
 | 4 | [Power Set](https://practice.geeksforgeeks.org/problems/power-set4302/1#) |None|
+| 5 | [Count Total Set Bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1#) |None|
