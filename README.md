@@ -98,3 +98,4 @@
 | 3 | [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)|None|
 | 4 | [Power Set](https://practice.geeksforgeeks.org/problems/power-set4302/1#) |None|
 | 5 | [Count Total Set Bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1#) |None|
+| 6 | [And Then There Were K](https://codeforces.com/contest/1527/problem/A) |None|
