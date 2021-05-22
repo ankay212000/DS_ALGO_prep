@@ -69,6 +69,7 @@
 | 12| [Tree House](https://www.codechef.com/MAY21C/problems/THOUSES) |DFS|
 | 13| [Rat in maze Problem 1](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) |DFS on 2D grid and Backtracking|
 | 14| [Flood Fill](https://leetcode.com/problems/flood-fill/) |DFS on 2D grid|
+| 15| [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|Connected Components|
 
 ## BFS
 
@@ -83,6 +84,7 @@
 | 7 | [Bitmap](https://www.spoj.com/problems/BITMAP/)|BFS on 2D grid|
 | 8 | [Lucius Dungeon](https://www.spoj.com/problems/BYTESE1/)|BFS on 2D grid|
 | 9 | [The Cats and the Mouse](https://www.spoj.com/problems/CATM/)|BFS on 2D grid|
+| 10| [Word Ladder](https://leetcode.com/problems/word-ladder/) |BFS|
 
 ## Disjoint Set
 | Index | Problem | Prerequisite |  
