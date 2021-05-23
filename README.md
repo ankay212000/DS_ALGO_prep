@@ -85,6 +85,7 @@
 | 8 | [Lucius Dungeon](https://www.spoj.com/problems/BYTESE1/)|BFS on 2D grid|
 | 9 | [The Cats and the Mouse](https://www.spoj.com/problems/CATM/)|BFS on 2D grid|
 | 10| [Word Ladder](https://leetcode.com/problems/word-ladder/) |BFS|
+| 11| [Jump Game VII](https://leetcode.com/contest/weekly-contest-242/problems/jump-game-vii/) |BFS|
 
 ## Disjoint Set
 | Index | Problem | Prerequisite |  
