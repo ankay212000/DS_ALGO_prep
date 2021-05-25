@@ -70,6 +70,7 @@
 | 13| [Rat in maze Problem 1](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) |DFS on 2D grid and Backtracking|
 | 14| [Flood Fill](https://leetcode.com/problems/flood-fill/) |DFS on 2D grid|
 | 15| [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|Connected Components|
+| 16| [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)|Connected Components|
 
 ## BFS
 
