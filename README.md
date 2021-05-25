@@ -88,6 +88,8 @@
 | 11| [Jump Game VII](https://leetcode.com/contest/weekly-contest-242/problems/jump-game-vii/) |BFS|
 | 12| [Minimum time taken by each job to be completed given by a Directed Acyclic Graph](https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/) |Topological sorting|
 | 13| [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) |Topological sorting|
+| 14| [Find whether it is possible to finish all tasks or not from given dependencies](https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/)|Topological sorting|
+
 ## Disjoint Set
 | Index | Problem | Prerequisite |  
 | --- | --- | --- |
