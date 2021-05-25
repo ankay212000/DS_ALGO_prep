@@ -86,6 +86,7 @@
 | 9 | [The Cats and the Mouse](https://www.spoj.com/problems/CATM/)|BFS on 2D grid|
 | 10| [Word Ladder](https://leetcode.com/problems/word-ladder/) |BFS|
 | 11| [Jump Game VII](https://leetcode.com/contest/weekly-contest-242/problems/jump-game-vii/) |BFS|
+| 12| [Minimum time taken by each job to be completed given by a Directed Acyclic Graph](https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/) |Topological sorting|
 
 ## Disjoint Set
 | Index | Problem | Prerequisite |  
