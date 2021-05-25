@@ -5,7 +5,7 @@ int indegree[100001];
 vector<int> nodes[100001];
 int times[100001];
 
-void dfs(int n)
+void bfs(int n)
 {
     queue<int> q;
     for(int i=1;i<=n;i++)
@@ -49,6 +49,6 @@ int main() {
 	    indegree[b]++;
 	}
 	
-	dfs(n);
+	bfs(n);
 	return 0;
 }
