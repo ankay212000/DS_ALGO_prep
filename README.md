@@ -103,3 +103,24 @@
 | 4 | [Power Set](https://practice.geeksforgeeks.org/problems/power-set4302/1#) |None|
 | 5 | [Count Total Set Bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1#) |None|
 | 6 | [And Then There Were K](https://codeforces.com/contest/1527/problem/A) |None|
+
+## Dynamic Programming
+
+| Index | Problem                                                          | Prerequisite                         |
+| ----- | ---------------------------------------------------------------- | ------------------------------------ |
+| 1     | [Increasing Subsequence ](https://cses.fi/problemset/task/1145/) | Basic Dp knowledge                   |
+| 2     | [Dice Combinations ](https://cses.fi/problemset/task/1633)       | Basic Dp knowledge                   |
+| 3     | [Minimizing Coins ](https://cses.fi/problemset/task/1634)        | Basic Dp knowledge                   |
+| 4     | [Coin Combinations I ](https://cses.fi/problemset/task/1635)     | Basic Dp knowledge                   |
+| 5     | [Coin Combinations II ](https://cses.fi/problemset/task/1636)    | Basic Dp knowledge                   |
+| 6     | [Removing Digits ](https://cses.fi/problemset/task/1637)         | Basic Dp knowledge                   |
+| 7     | [Grid Paths ](https://cses.fi/problemset/task/1638)              | Basic Dp knowledge                   |
+| 8     | [Book Shop ](https://cses.fi/problemset/task/1158)               | Basic Dp knowledge                   |
+| 9     | [Array Description ](https://cses.fi/problemset/task/1746)       | Basic Dp knowledge                   |
+| 10    | [Counting Towers ](https://cses.fi/problemset/task/2413)         | Basic Dp knowledge                   |
+| 11    | [Edit Distance ](https://cses.fi/problemset/task/1639)           | Basic Dp knowledge                   |
+| 12    | [Rectangle Cutting ](https://cses.fi/problemset/task/1744)       | Basic Dp knowledge                   |
+| 13    | [Money Sums ](https://cses.fi/problemset/task/1745)              | Basic Dp knowledge                   |
+| 14    | [Removal Game ](https://cses.fi/problemset/task/1097)            | Basic Dp knowledge                   |
+| 15    | [Two Sets II ](https://cses.fi/problemset/task/1093)             | Basic Dp knowledge                   |
+| 16    | [Projects ](https://cses.fi/problemset/task/1140)                | Basic Dp knowledge And Binary Search |
