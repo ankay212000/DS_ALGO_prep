@@ -127,3 +127,4 @@
 | 14    | [Removal Game ](https://cses.fi/problemset/task/1097)            | Basic Dp knowledge                   |
 | 15    | [Two Sets II ](https://cses.fi/problemset/task/1093)             | Basic Dp knowledge                   |
 | 16    | [Projects ](https://cses.fi/problemset/task/1140)                | Basic Dp knowledge And Binary Search |
+| 17    | [Edit Distances](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) |Basic Dp knowledge|
