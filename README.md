@@ -95,6 +95,10 @@
 | Index | Problem | Prerequisite |  
 | --- | --- | --- |
 | 1 | [Teacher's Dilemma](https://www.hackerearth.com/problem/algorithm/teachers-dilemma-3-00955296/)|None|
+| 2 | [City and Flood](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-flood-1/)|None|
+| 3 | [City and Campers](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-campers/)|None|
+| 4 | [City and Fireman Vincent](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-fireman-vincent/)|None|
+| 5 | [City and Soldiers](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-soldiers/)|None|
 
 
 ## Bit Manipulation
