@@ -57,7 +57,7 @@
 | --- | --- | --- | 
 | 1 | [Connected Components in a Graph](https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/) |DFS on undirected graph|
 | 2 | [Bishu and his Girlfriend](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/bishu-and-his-girlfriend/) | DFS on undirected graph|
-| 3 | [Is it a tree](https://www.spoj.com/problems/PT07Y/) |Graph knowledge|
+| 3 | [Is it a tree](https://www.spoj.com/problems/PT07Y/) |Graph and Tree knowledge|
 | 4 | [A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/) |Bipartite graphs|
 | 5 | [Fire Escape Routes](https://www.codechef.com/problems/FIRESC) |Connected Components|
 | 6 | [Counting Rooms](https://cses.fi/problemset/task/1192/)|DFS on 2D grid|
@@ -71,6 +71,7 @@
 | 14| [Flood Fill](https://leetcode.com/problems/flood-fill/) |DFS on 2D grid|
 | 15| [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|Connected Components|
 | 16| [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)|Connected Components|
+| 17| [Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|DFS|
 
 ## BFS
 
